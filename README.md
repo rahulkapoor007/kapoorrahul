@@ -1,4 +1,4 @@
-# PatatapClone
+# sounds
 
 
 Built using Howler.js and Paper.js
